@@ -51,34 +51,7 @@ The project uses the Kaggle 3M dataset, which includes:
 
 ## Installation
 
-1. Clone the repository:
-```bash
-git clone [repository-url]
-```
-
-2. Install required packages:
-```bash
-pip install -r requirements.txt
-```
-
-3. Download the dataset and place it in the appropriate directory
-
-## Usage
-
-1. Train the model:
-```bash
-python Source Code/train_model.py
-```
-
-2. Run the API:
-```bash
-python Source Code/api.py
-```
-
-3. Use the web interface:
-- Start the application
-- Upload an MRI scan
-- View the detection results
+This is a private project. No installation guide will be provided. Only important files are updated in the repository.
 
 ## Project Structure
 
